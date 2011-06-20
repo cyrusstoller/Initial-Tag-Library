@@ -1,3 +1,5 @@
+# Initial code written by Cyrus Stoller 2011
+
 require 'open-uri'
 require 'nokogiri'
 
